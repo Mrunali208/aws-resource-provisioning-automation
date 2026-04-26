@@ -110,7 +110,7 @@ aws-auto-bucket-xxxxxx
 
 ### 🔹 Step 2: AWS CLI Configuration
 
-```bash
+bash
 aws configure
 
 - Enter:
